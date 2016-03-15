@@ -52,7 +52,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #1d9b6c;
+    color: #ff7357;
 }
 
 .light {
@@ -98,7 +98,7 @@ a:focus {
 
 .navbar-custom .nav li a:hover {
     outline: 0;
-    color: rgba(255,255,255,.8);
+    color: #ff7357;
     background-color: transparent;
 }
 
@@ -113,7 +113,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a {
-    background-color: rgba(255,255,255,.3);
+    background-color: #ff7357;
 }
 
 .navbar-custom .nav li.active a:hover {
